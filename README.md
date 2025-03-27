@@ -58,9 +58,6 @@ After compilation, execute the generated binary:
 hangman.exe   # Windows
 ```
 
-## Contributions
-Contributions and improvements are welcome! If you encounter any issues, feel free to submit a pull request or report an issue.
-
 ## Author 
 Goda Gutparakytė
 
